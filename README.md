@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="coding gif">
+</div>
+
 <!--
   TODO: replace assets/banner.gif below with your own pixel-art hacker desk / dual-monitor,
   night + neon banner. Free sources: itch.io pixel-art packs, opengameart.org, or export a
@@ -33,7 +37,7 @@
 ### 📬 Contact Information
 
 - 💬 Telegram: [@DiMetelnuy](https://t.me/DiMetelnuy)
-- 📧 Email: `your-email@example.com`
+- 📧 Email: [736363728hdue63792@gmail.com](mailto:736363728hdue63792@gmail.com)
 
 <p align="left">
   <a href="https://twitter.com/your_handle" target="_blank">
