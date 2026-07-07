@@ -12,32 +12,32 @@
 
 <div align="center">
 
-# Hi there 👋, I'm DiFors
+# Hi there, I'm DiFors
 
 </div>
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/pngwing.com.png" width="25"> Welcome to my GitHub Profile!
+## Welcome to my GitHub Profile!
 
 </div>
 
 <hr>
 
-### 🔐 About Me
+### About Me
 
-- 🕵️ Independent **smart contract security researcher**
-- 🏆 Активно беру участь у bug bounty на **HackenProof** (120+ reputation)
-- 🔎 Аудирую **EVM/Solidity**, **Solana/Anchor/Rust**, **Sui/Move**, **TON/FunC**, **Cairo/StarkNet**
-- 🧠 Attacker-first mindset, власний **автоматизований multi-model audit pipeline**
-- 📜 Серед проаудійованих протоколів: **1inch, Bluefin, STON.fi, StarkGate, Arcadia Finance, Nado Protocol, SolvBTC**
+- Independent smart contract security researcher
+- Active bug bounty hunter on HackenProof (120+ reputation)
+- Audit EVM/Solidity, Solana/Anchor/Rust, Sui/Move, TON/FunC, Cairo/StarkNet
+- Attacker-first mindset, own automated multi-model audit pipeline
+- Protocols audited include: 1inch, Bluefin, STON.fi, StarkGate, Arcadia Finance, Nado Protocol, SolvBTC
 
 <hr>
 
-### 📬 Contact Information
+### Contact Information
 
-- 💬 Telegram: [@DiMetelnuy](https://t.me/DiMetelnuy)
-- 📧 Email: [736363728hdue63792@gmail.com](mailto:736363728hdue63792@gmail.com)
+- Telegram: [@DiMetelnuy](https://t.me/DiMetelnuy)
+- Email: [736363728hdue63792@gmail.com](mailto:736363728hdue63792@gmail.com)
 
 <p align="left">
   <a href="https://twitter.com/your_handle" target="_blank">
@@ -53,7 +53,7 @@
 
 <hr>
 
-### 🛠️ Languages and Tools I Use
+### Languages and Tools I Use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=solidity,rust,py,js,ts,docker,linux,vscode,git,github" alt="skill icons"/>
@@ -70,24 +70,24 @@
 
 <hr>
 
-### 📋 Audit Summary
+### Audit Summary
 
 | Protocol | Chain | Severity | Status |
 |---|---|---|---|
-| Arcadia Finance | EVM | Medium — unrevoked ERC1155 `setApprovalForAll` | ✅ Reported |
-| Nado Protocol | EVM | — | ✅ Reported |
-| SolvBTC | Solana | — | ✅ Reported |
-| 1inch | EVM | — | 🔍 Reviewed |
-| Bluefin | Sui | — | 🔍 Reviewed |
-| STON.fi | TON | — | 🔍 Reviewed |
-| StarkGate | StarkNet | — | 🔍 Reviewed |
+| Arcadia Finance | EVM | Medium - unrevoked ERC1155 `setApprovalForAll` | Reported |
+| Nado Protocol | EVM | - | Reported |
+| SolvBTC | Solana | - | Reported |
+| 1inch | EVM | - | Reviewed |
+| Bluefin | Sui | - | Reviewed |
+| STON.fi | TON | - | Reviewed |
+| StarkGate | StarkNet | - | Reviewed |
 
 <hr>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiMetelnyi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=DiMetelnyi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
