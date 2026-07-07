@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## Welcome to my GitHub Profile!
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome to my GitHub Profile!" />
 
 </div>
 
@@ -88,10 +88,6 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=DiMetelnyi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DiMetelnyi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
